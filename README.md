@@ -6,7 +6,7 @@ SQL is an acronym for Structured Query Language. It is a language designed to ac
 
  
 
-Through the workshop, you will learn…
+## Through the workshop, you will learn…
 
 - Querying a table
 - Use operators
