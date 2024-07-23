@@ -14,3 +14,9 @@ SQL is an acronym for Structured Query Language. It is a language designed to ac
 - Use sort functions
 - Join tables
 To extract specific data from your database
+
+## Pre-requisites
+Internet Use: Introductory level (search, log-in, navigation of websites, etc.) Local installation (if you bring your laptop): DBeaver (any version) Software knowledge: basic computer skills
+
+## Participants
+CMC Students, Faculty and Staff
